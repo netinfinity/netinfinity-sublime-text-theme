@@ -1,4 +1,4 @@
 netinfinity-sublime-text-theme
 ==============================
 
-Sublime text 2 theme
+Sublime text 2/3 dark theme
